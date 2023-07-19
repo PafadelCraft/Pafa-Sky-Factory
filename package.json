@@ -1,11 +1,11 @@
 {
-    "name": "PafaSkyFactory-Launcher",
+    "name": "pafaskyfactorylauncher",
     "preductname": "Pafa'Sky Factory Launcher",
     "version": "1.0.0",
     "description": "Launcher pour le serveur moddé Pafa'Sky Factory",
     "main": "src/app.js",
     "author": "PafadelCraft",
-    "url": "http://176.136.223.206",
+    "url": "http://192.168.1.100",
     "engines": {
         "node": "^18.x.x"
     },
