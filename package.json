@@ -1,7 +1,7 @@
 {
     "name": "pafaskyfactorylauncher",
     "preductname": "Pafa'Sky Factory Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher pour le serveur moddé Pafa'Sky Factory",
     "main": "src/app.js",
     "author": "PafadelCraft",
