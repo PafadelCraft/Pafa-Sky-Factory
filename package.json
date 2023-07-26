@@ -5,7 +5,7 @@
     "description": "Launcher pour le serveur moddé Pafa'Sky Factory",
     "main": "src/app.js",
     "author": "PafadelCraft",
-    "url": "https://pafaskyfactory.pafadelcraft.fr",
+    "url": "http://pafadelcraft.fr",
     "engines": {
         "node": "^18.x.x"
     },
